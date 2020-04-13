@@ -9,8 +9,8 @@
 --------
 Fotos del proceso del Merge:
 
-[ProblemaAlMergear](Screenshot_1)
+[ProblemaAlMergear](Screenshot_1.png)
 
-[AvisoDeConflicto](Screenshot_2)
+[AvisoDeConflicto](Screenshot_2.png)
 
-[ConflictoEnLaMismaLinea](Screenshot_3)
+[ConflictoEnLaMismaLinea](Screenshot_3.png)
